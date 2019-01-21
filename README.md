@@ -1,9 +1,9 @@
-# Budget: simple app which I created on the freeCodeCamp lesson
+# Budget: simple JS-app which I created on the freeCodeCamp lesson
 
 
 ---
 
-###  [Here is an example](http://example.com/ "Необязательная подсказка")
+###  [Here is an example](https://stan0men.github.io/Budget-app/index.html)
   
 ---
 
